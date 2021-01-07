@@ -1,0 +1,22 @@
+2021-01-07 18:34:55,117  INFO [main] HomePage:33 - --Launching SkyNews Homepage--
+2021-01-07 18:34:56,772  INFO [main] HomePage:48 - --Clicking accept cookie button--
+2021-01-07 18:34:56,812  INFO [main] HomePage:56 - --Checking Page title--
+2021-01-07 18:34:56,822  INFO [main] Hooks:38 - --Closing browser--
+2021-01-07 18:35:02,873  INFO [main] HomePage:33 - --Launching SkyNews Homepage--
+2021-01-07 18:35:04,320  INFO [main] HomePage:48 - --Clicking accept cookie button--
+2021-01-07 18:35:04,368  INFO [main] HomePage:66 - --Checking the number of categories on Homepage--
+2021-01-07 18:35:04,808  INFO [main] Hooks:38 - --Closing browser--
+2021-01-07 18:35:11,974  INFO [main] HomePage:33 - --Launching SkyNews Homepage--
+2021-01-07 18:35:13,529  INFO [main] HomePage:48 - --Clicking accept cookie button--
+2021-01-07 18:35:13,566  INFO [main] HomePage:85 - --Checking Home category is selected by default--
+2021-01-07 18:35:13,590  INFO [main] Hooks:38 - --Closing browser--
+2021-01-07 18:35:20,643  INFO [main] HomePage:33 - --Launching SkyNews Homepage--
+2021-01-07 18:35:22,043  INFO [main] HomePage:48 - --Clicking accept cookie button--
+2021-01-07 18:35:22,079  INFO [main] HomePage:95 - --Clicking climate category--
+2021-01-07 18:35:22,638  INFO [main] HomePage:104 - --Checking climate category focus--
+2021-01-07 18:35:22,700  INFO [main] Hooks:38 - --Closing browser--
+2021-01-07 18:35:29,862  INFO [main] HomePage:33 - --Launching SkyNews Homepage--
+2021-01-07 18:35:31,406  INFO [main] HomePage:48 - --Clicking accept cookie button--
+2021-01-07 18:35:31,414  INFO [main] HomePage:114 - --Clicking a story from homepage--
+2021-01-07 18:35:34,242  INFO [main] HomePage:129 - --Checking the title text of the story--
+2021-01-07 18:35:34,307  INFO [main] Hooks:38 - --Closing browser--

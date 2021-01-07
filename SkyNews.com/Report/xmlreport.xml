@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="5" time="46.980742">
+<testcase classname="This feature will test SkyNews.com homepage - Title, Categories and story" name="Verify Browser tab's title" time="9.534854">
+<system-out><![CDATA[Given User navigates to SkyNews homepage....................................passed
+When User clicks 'Accept' cookies...........................................passed
+Then Page title should be displayed.........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="This feature will test SkyNews.com homepage - Title, Categories and story" name="Verify number of categories displayed and their names" time="9.049212">
+<system-out><![CDATA[Given User navigates to SkyNews homepage....................................passed
+When User clicks 'Accept' cookies...........................................passed
+Then Number of categories should be displayed along with their names........passed
+]]></system-out>
+</testcase>
+<testcase classname="This feature will test SkyNews.com homepage - Title, Categories and story" name="Verify default focus is on Home Category" time="8.754394">
+<system-out><![CDATA[Given User navigates to SkyNews homepage....................................passed
+When User clicks 'Accept' cookies...........................................passed
+Then Home category should be selected by default............................passed
+]]></system-out>
+</testcase>
+<testcase classname="This feature will test SkyNews.com homepage - Title, Categories and story" name="Verify that is the user clicks 'Climate' this becomes the focus" time="9.178548">
+<system-out><![CDATA[Given User navigates to SkyNews homepage....................................passed
+When User clicks 'Accept' cookies...........................................passed
+When User clicks 'Climate' category.........................................passed
+Then Climate should be focussed.............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="This feature will test SkyNews.com homepage - Title, Categories and story" name="Select a story from homepage. Verify that a word of your choice in the title text of the article you have just selected appears once title of the new page loads" time="10.463734">
+<system-out><![CDATA[Given User navigates to SkyNews homepage....................................passed
+When User clicks 'Accept' cookies...........................................passed
+When User clicks a story from homepage......................................passed
+Then Title text of the article selected should appear in the new page.......passed
+]]></system-out>
+</testcase>
+</testsuite>
